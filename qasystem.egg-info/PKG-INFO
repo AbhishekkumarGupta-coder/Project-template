@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: qasystem
+Version: 0.0.1
+Author: Abhishek
+Author-email: vicky03867@gmail.com
+Requires-Dist: langchain
